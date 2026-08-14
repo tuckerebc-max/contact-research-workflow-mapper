@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contact Research Workflow Mapper"
+  short_description: "Map projects through research workflow nodes"
+  default_prompt: "Use $contact-research-workflow-mapper to map a contact-research project, select its next node and batch approach, and record explicit branch decisions."
